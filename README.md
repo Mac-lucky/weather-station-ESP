@@ -16,7 +16,7 @@ You can view website where all data points are presented in charts.
 
 ## Sensors
 
-BH1750 - Light Sensor
-BME280 - Pressure and Humidity
-DS18B20 - Temperature Sensor
-DS-15901 - Wind Speed and Direction
+* BH1750 - Light Sensor
+* BME280 - Pressure and Humidity
+* DS18B20 - Temperature Sensor
+* DS-15901 - Wind Speed and Direction
